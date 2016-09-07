@@ -1,0 +1,21 @@
+BODY {
+    background: url("granite.gif") gray 50% repeat fixed;
+    }
+
+
+H4  {
+    font-family: arial, sans-serif;
+    color: black;
+    margin-left: 7%;
+    }
+
+P   {
+    font-family: "times new roman", serif;
+    color: black;
+    margin-left: 7%;
+    margin-right: 7%;
+    }
+
+HR  {
+    width: 86%;
+    }
